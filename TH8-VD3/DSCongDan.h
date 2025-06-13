@@ -3,7 +3,7 @@
 #define DSCONGDAN_H
 #include "CongDan.h"
 class DSCongDan {
-protected:
+private:
     CongDan* ds;
     int sl;
     static int dem;
