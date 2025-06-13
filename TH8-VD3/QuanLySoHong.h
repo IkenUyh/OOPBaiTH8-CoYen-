@@ -4,7 +4,7 @@
 #include "SoHongDatNongNghiep.h"
 #include "SoHongDatPhiNongNghiep.h"
 class QuanLySoHong{
-    protected:
+    private:
         SoHong** ds;
         int sl;
         static int dem;
