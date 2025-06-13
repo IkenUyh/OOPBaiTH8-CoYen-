@@ -3,7 +3,7 @@
 #define SOHONGDATNONGNGHIEP_H
 #include "SoHong.h"
 class SoHongDatNongNghiep : public SoHong{
-    protected:
+    private:
         int thoihan;
         static int dem;
     public:
