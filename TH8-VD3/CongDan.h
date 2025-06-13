@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 class CongDan {
-protected:
+private:
     string hoTen;
     int namSinh;
     string CCCD;
